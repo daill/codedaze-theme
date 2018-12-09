@@ -1,11 +1,11 @@
 {
-  "name": "codedaze",
+  "name": "codedaze-daills",
   "version": "2.1.0",
   "author": {
     "name": "Chris Sainty",
     "url": "https://github.com/chrissainty/codedaze-theme"
   },
-  "description": "CodeDaze",
+  "description": "CodeDaze daills",
   "keywords": [
     "ghost",
     "theme",
